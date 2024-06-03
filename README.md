@@ -1,4 +1,4 @@
-Delta AI Assistant Documentation
+Aria AI Assistant Documentation
 Introduction
 Delta AI Assistant is a virtual assistant program designed to assist users with various tasks through voice commands and provide responses via speech synthesis. It is capable of performing actions such as providing weather updates, playing videos or songs, searching the web, opening applications, setting reminders, playing games like tic-tac-toe, and more.
 
@@ -32,11 +32,11 @@ Tictactoe2: custom module for playing tic-tac-toe.
 patterns_and_responses: custom module containing predefined commands and responses.
 groq: for interacting with the Groq API.
 Usage
-To use Delta AI Assistant, follow these steps:
+To use Aria AI Assistant, follow these steps:
 
 Install the required dependencies listed above.
 Run the program using Python, providing the necessary permissions.
 Interact with the assistant by speaking voice commands or using the buttons in the GUI.
 Enjoy the features and functionalities provided by the assistant.
 Conclusion
-Delta AI Assistant provides users with a convenient and efficient way to perform various tasks using voice commands and receive audible responses. With its customizable features, task automation capabilities, and interactive GUI, it offers a seamless user experience for enhancing productivity and convenience.
+Aria AI Assistant provides users with a convenient and efficient way to perform various tasks using voice commands and receive audible responses. With its customizable features, task automation capabilities, and interactive GUI, it offers a seamless user experience for enhancing productivity and convenience.
